@@ -2,7 +2,7 @@
 
 I'm a Physicist and Mathematician<br/>
 🎓[University of Canterbury](https://canterbury.ac.nz)<br/>
-📍[New Zealand Aotearoa](https://en.wikipedia.org/wiki/New_Zealand)
+📍[Christchurch, New Zealand](https://en.wikipedia.org/wiki/Christchurch)
 
 
 This Github Account contains my astrophysics simulation code, coding challenges and weekend projects. <br/>
