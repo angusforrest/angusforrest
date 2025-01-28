@@ -1,6 +1,8 @@
 ## Angus Forrest ([Website](https://angusforrest.com))
 
-Hi, I'm an Physicist and Mathematician currently working at [University of Canterbury](https://canterbury.ac.nz) in [New Zealand Aotearoa](https://en.wikipedia.org/wiki/New_Zealand).
+I'm a Physicist and Mathematician<br/>
+🎓[University of Canterbury](https://canterbury.ac.nz)<br/>
+📍[New Zealand Aotearoa](https://en.wikipedia.org/wiki/New_Zealand)
 
 
 This Github Account contains my astrophysics simulation code, coding challenges and weekend projects. <br/>
