@@ -4,4 +4,4 @@ Hi, I'm an Physicist and Mathematician currently working at [University of Cante
 
 
 This Github Account contains my astrophysics simulation code, coding challenges and weekend projects. <br/>
-If you want to contact me, flick me an email (you can find my email on my website).
+If you want to contact me, flick me an [email](mailto:contact@angusforrest.com)
