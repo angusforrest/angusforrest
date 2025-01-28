@@ -6,4 +6,7 @@ I'm a Physicist and Mathematician<br/>
 
 
 This Github Account contains my astrophysics simulation code, coding challenges and weekend projects. <br/>
-If you want to contact me, flick me a message on my [personal email](mailto:contact@angusforrest.com) or [university email](mailto:angus.forrest@canterbury.ac.nz)
+
+If you want to contact me, flick me a message! <br/>
+👤[personal email](mailto:contact@angusforrest.com) 
+✉️[university email](mailto:angus.forrest@canterbury.ac.nz)
