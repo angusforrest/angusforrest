@@ -1,6 +1,6 @@
 ## Angus Forrest ([Website](https://angusforrest.com))
 
-I'm a Physicist and Mathematician<br/>
+I'm a computational astrophysicist<br/>
 🎓[University of Canterbury](https://canterbury.ac.nz)<br/>
 📍[Christchurch, New Zealand](https://en.wikipedia.org/wiki/Christchurch)
 
